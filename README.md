@@ -66,9 +66,12 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 | Versione | macOS | Mac |
 |---|---|---|
-| 1.0.0 | 27 o successivo | Apple silicon |
+| 1.0.0 e successive | 27 o successivo | Apple silicon |
 
 ## Novità
+
+**1.0.1**
+- Al primo avvio Lumika parte vuota: non legge nessuna cartella finché non sei tu a sceglierla.
 
 **1.0.0**
 - Prima versione.
