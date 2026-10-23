@@ -1,91 +1,100 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="Icona di Lumika">
+  <img src="assets/icon.png" width="128" height="128" alt="Lumika icon">
 </p>
 
 <h1 align="center">Lumika</h1>
 
 <p align="center">
-  Trova qualsiasi file sul tuo Mac da quello che ricordi.<br>
-  Documenti, foto, note vocali e codice, in un istante.
+  Find any file on your Mac from what you remember.<br>
+  Documents, photos, voice memos and code, in an instant.
 </p>
 
 <p align="center">
-  <a href="https://github.com/DevDreamer99/Lumika-Releases/releases/latest"><b>Scarica l'ultima versione</b></a>
-  &nbsp;·&nbsp; macOS 27 o successivo &nbsp;·&nbsp; Apple silicon &nbsp;·&nbsp; Gratis
+  <b>English</b> · <a href="README.it.md">Italiano</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a>
 </p>
 
 <p align="center">
-  <img src="assets/showcase/1-main.jpg" alt="Lumika: trova qualsiasi file da quello che ricordi">
+  <a href="https://github.com/DevDreamer99/Lumika-Releases/releases/latest"><b>Download the latest version</b></a>
+  &nbsp;·&nbsp; macOS 27 or later &nbsp;·&nbsp; Apple silicon &nbsp;·&nbsp; Free
+</p>
+
+<p align="center">
+  <img src="assets/showcase/en/1-main.jpg" alt="Lumika: find any file from what you remember">
 </p>
 
 ---
 
-Non serve ricordare come si chiama un file o dove l'hai salvato. Scrivi quello che ti viene in mente, come lo diresti a voce: *"la fattura del dentista"*, *"quanto ho speso alla trattoria"*, *"dove salvo il token di accesso"*. Lumika capisce cosa intendi e te lo mostra, che sia un documento, una foto, una nota vocale o una riga di codice.
+You don't need to remember what a file is called or where you saved it. Type whatever comes to mind, the way you'd say it out loud: *"dentist bill"*, *"how much I spent at the pub"*, *"where do I store the access token"*. Lumika understands what you mean and shows it to you, whether it's a document, a photo, a voice memo or a line of code.
 
-Premi **Opzione Spazio** da qualsiasi app e cerca. Tutto resta sul tuo Mac.
+Press **Option Space** from any app and search. Everything stays on your Mac.
 
-## Cosa fa
+## What it does
 
-- **Capisce quello che cerchi**: trova la "parcella odontoiatrica" anche se scrivi "fattura del dentista". Le parole possono essere diverse, il significato no.
-- **Ritrova anche le foto**: scontrini, scansioni e screenshot si trovano da quello che c'è scritto sopra, anche se si chiamano IMG_2041.
-- **Ricorda quello che hai detto**: note vocali, riunioni e video si cercano per le parole pronunciate, e Lumika ti porta al momento giusto.
-- **Pensata per chi programma**: descrivi cosa fa il codice e arrivi alla riga giusta, aperta nel tuo editor preferito (Xcode, VS Code, Cursor, Zed).
-- **Subito pronta**: appena scegli le cartelle, i file si trovano già dal nome; il contenuto arriva in pochi minuti, mentre lavori.
-- **Sempre al passo**: i file che aggiungi, modifichi o sposti si trovano da soli, senza fare nulla.
-- **Anche su iCloud**: i file che stanno solo nel cloud si trovano senza scaricarli.
-- **Anche sui dischi esterni**: scollegati, i loro file restano cercabili; ricollegati, Lumika riprende da sola.
-- **Decidi tu cosa leggere**: salta le cartelle che non ti interessano con un clic. E le raccolte di dati, come centinaia di immagini dai nomi generati da un programma, Lumika le salta da sola.
+- **Understands what you're looking for**: finds the "orthodontic statement" even when you type "dentist bill". The words can differ, the meaning doesn't.
+- **Finds your photos too**: receipts, scans and screenshots are found by what's written on them, even when they're called IMG_2041.
+- **Remembers what you said**: voice memos, meetings and videos are searched by the words spoken, and Lumika takes you to the right moment.
+- **Made for developers**: describe what the code does and land on the right line, opened in your favorite editor (Xcode, VS Code, Cursor, Zed).
+- **Ready right away**: as soon as you choose your folders, files can be found by name; their content follows within minutes, while you work.
+- **Always up to date**: files you add, change or move are found on their own, with nothing to do.
+- **iCloud too**: files that live only in iCloud are found without downloading them.
+- **External disks too**: unplugged, their files stay searchable; plugged back in, Lumika picks up on its own.
+- **In four languages**: English, Italian, French and Spanish, following your Mac's language.
+- **You decide what it reads**: skip the folders you don't care about with a click. Data collections, like hundreds of images named by a program, are skipped on their own.
 
 <table>
   <tr>
-    <td><img src="assets/showcase/2-foto.jpg" alt="Ritrova anche le foto"></td>
-    <td><img src="assets/showcase/3-audio.jpg" alt="Ricorda quello che hai detto"></td>
+    <td><img src="assets/showcase/en/2-foto.jpg" alt="Finds your photos too"></td>
+    <td><img src="assets/showcase/en/3-audio.jpg" alt="Remembers what you said"></td>
   </tr>
   <tr>
-    <td><img src="assets/showcase/4-codice.jpg" alt="Pensata per chi programma"></td>
-    <td><img src="assets/showcase/5-privacy.jpg" alt="Solo tua"></td>
+    <td><img src="assets/showcase/en/4-codice.jpg" alt="Made for developers"></td>
+    <td><img src="assets/showcase/en/5-privacy.jpg" alt="Only yours"></td>
   </tr>
 </table>
 
-## Installazione
+## Install
 
-1. Scarica il `.dmg` dall'[ultima versione](https://github.com/DevDreamer99/Lumika-Releases/releases/latest).
-2. Aprilo e trascina **Lumika** in **Applicazioni**.
-3. Apri Lumika: vive nella barra dei menu, in alto a destra. Scegli le cartelle in cui cercare e il gioco è fatto.
+1. Download the `.dmg` from the [latest release](https://github.com/DevDreamer99/Lumika-Releases/releases/latest).
+2. Open it and drag **Lumika** into **Applications**.
+3. Open Lumika: it lives in the menu bar, top right. Choose the folders to search in, and you're set.
 
-La prima volta Lumika scarica il suo modello (865 MB, una volta sola). Poi lavora senza internet.
+The first time, Lumika downloads its model (865 MB, only once). After that it works without the internet.
 
-Lumika controlla questa pagina una volta al giorno e installa le nuove versioni con un clic, dopo aver verificato che siano firmate dallo sviluppatore e autenticate da Apple. Il controllo si può spegnere nelle impostazioni.
+Lumika checks this page once a day and installs new versions in one click, after checking that they're signed by the developer and notarized by Apple. You can turn the check off in the settings.
 
-## Solo tua
+## Only yours
 
-- **Tutto sul tuo Mac**: nessun account, nessun cloud, nessun dato raccolto. Le uniche richieste in rete sono il download del modello e il controllo degli aggiornamenti.
-- **I tuoi file restano dove sono**: Lumika li legge e basta. Non li modifica, non li sposta e non li invia.
-- **Le password restano private**: chiavi e file di password non vengono mai letti.
-- **Firmata e autenticata da Apple**: macOS controlla ogni download.
+- **Everything on your Mac**: no account, no cloud, no data collected. The only network requests are the model download and the update check.
+- **Your files stay where they are**: Lumika only reads them. It never changes, moves or sends them.
+- **Passwords stay private**: keys and password files are never read.
+- **Signed and notarized by Apple**: macOS checks every download.
 
-## Requisiti
+## Requirements
 
-| Versione | macOS | Mac |
+| Version | macOS | Mac |
 |---|---|---|
-| 1.0.0 e successive | 27 o successivo | Apple silicon |
+| 1.0.0 and later | 27 or later | Apple silicon |
 
-## Novità
+## What's new
+
+**1.1.0**
+- Lumika now speaks English, French and Spanish as well as Italian, and follows your Mac's language.
+- Update notes come in your language too.
 
 **1.0.3**
-- Dischi esterni e chiavette: scollegati restano cercabili, ricollegati Lumika riprende da sola.
-- Correzione importante: con il modello appena scaricato la ricerca per significato poteva non partire.
+- External disks and USB sticks: unplugged they stay searchable, plugged back in Lumika picks up on its own.
+- Important fix: with a freshly downloaded model, search by meaning could fail to start.
 
 **1.0.2**
-- Salta le cartelle che non ti interessano, dal tasto destro o da Cartelle e indice.
-- Le raccolte di dati vengono saltate da sole: l'indice resta pulito e veloce.
-- Percorsi delle cartelle più corti e leggibili.
+- Skip the folders you don't care about, from the right-click menu or from Folders and index.
+- Data collections are skipped on their own: the index stays clean and fast.
+- Shorter, easier-to-read folder paths.
 
 **1.0.1**
-- Al primo avvio Lumika parte vuota: non legge nessuna cartella finché non sei tu a sceglierla.
+- On first launch Lumika starts empty: it reads no folder until you choose one.
 
 **1.0.0**
-- Prima versione.
+- First release.
 
 ---
 
