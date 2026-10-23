@@ -78,6 +78,9 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
+**1.2.1**
+- More privacy inside the app: the search engine no longer carries the folder names of the Mac it was built on.
+
 **1.2.0**
 - A real Settings window, from the menu bar with ⌘, or from the search panel.
 - Open Lumika at login, and choose the app's language.

@@ -78,6 +78,9 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 
 ## Nouveautés
 
+**1.2.1**
+- Plus de confidentialité dans l'app : le moteur de recherche ne contient plus les noms des dossiers du Mac sur lequel il a été compilé.
+
 **1.2.0**
 - Une vraie fenêtre Réglages, depuis la barre des menus avec ⌘, ou depuis le panneau de recherche.
 - Ouvrir Lumika à l'ouverture de session, et choisir la langue de l'app.
