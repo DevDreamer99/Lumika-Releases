@@ -38,6 +38,7 @@ Appuyez sur **Option Espace** depuis n'importe quelle app et cherchez. Tout rest
 - **Toujours à jour** : les fichiers que vous ajoutez, modifiez ou déplacez se retrouvent tout seuls.
 - **iCloud aussi** : les fichiers qui ne sont que dans le cloud se retrouvent sans les télécharger.
 - **Disques externes aussi** : débranchés, leurs fichiers restent cherchables ; rebranchés, Lumika reprend toute seule.
+- **De vrais réglages** : ouvrez Lumika à l'ouverture de session, choisissez la langue et gérez dossiers et index dans une fenêtre Réglages.
 - **En quatre langues** : français, anglais, italien et espagnol, selon la langue de votre Mac.
 - **Vous décidez de ce qu'elle lit** : ignorez d'un clic les dossiers qui ne vous intéressent pas. Les collections de données, comme des centaines d'images nommées par un programme, sont ignorées d'elles-mêmes.
 
@@ -76,6 +77,10 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 | 1.0.0 et ultérieures | 27 ou ultérieur | Apple silicon |
 
 ## Nouveautés
+
+**1.2.0**
+- Une vraie fenêtre Réglages, depuis la barre des menus avec ⌘, ou depuis le panneau de recherche.
+- Ouvrir Lumika à l'ouverture de session, et choisir la langue de l'app.
 
 **1.1.0**
 - Lumika parle désormais anglais, français et espagnol en plus de l'italien, et suit la langue de votre Mac.

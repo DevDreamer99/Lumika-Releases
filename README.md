@@ -38,6 +38,7 @@ Press **Option Space** from any app and search. Everything stays on your Mac.
 - **Always up to date**: files you add, change or move are found on their own, with nothing to do.
 - **iCloud too**: files that live only in iCloud are found without downloading them.
 - **External disks too**: unplugged, their files stay searchable; plugged back in, Lumika picks up on its own.
+- **Settings of its own**: open Lumika at login, choose the language, and manage folders and index in a proper Settings window.
 - **In four languages**: English, Italian, French and Spanish, following your Mac's language.
 - **You decide what it reads**: skip the folders you don't care about with a click. Data collections, like hundreds of images named by a program, are skipped on their own.
 
@@ -76,6 +77,10 @@ Lumika checks this page once a day and installs new versions in one click, after
 | 1.0.0 and later | 27 or later | Apple silicon |
 
 ## What's new
+
+**1.2.0**
+- A real Settings window, from the menu bar with ⌘, or from the search panel.
+- Open Lumika at login, and choose the app's language.
 
 **1.1.0**
 - Lumika now speaks English, French and Spanish as well as Italian, and follows your Mac's language.

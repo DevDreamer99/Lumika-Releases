@@ -38,6 +38,7 @@ Pulsa **Opción Espacio** desde cualquier app y busca. Todo se queda en tu Mac.
 - **Siempre al día**: los archivos que añades, cambias o mueves se encuentran solos, sin hacer nada.
 - **También en iCloud**: los archivos que solo están en la nube se encuentran sin descargarlos.
 - **También en discos externos**: desconectados, sus archivos siguen pudiéndose buscar; al volver a conectarlos, Lumika retoma sola.
+- **Ajustes de verdad**: abre Lumika al iniciar sesión, elige el idioma y gestiona carpetas e índice en una ventana de Ajustes.
 - **En cuatro idiomas**: español, inglés, italiano y francés, según el idioma de tu Mac.
 - **Tú decides qué lee**: omite con un clic las carpetas que no te interesan. Las colecciones de datos, como cientos de imágenes con nombres generados por un programa, se omiten solas.
 
@@ -76,6 +77,10 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 | 1.0.0 y posteriores | 27 o posterior | Apple silicon |
 
 ## Novedades
+
+**1.2.0**
+- Una ventana de Ajustes de verdad, desde la barra de menús con ⌘, o desde el panel de búsqueda.
+- Abrir Lumika al iniciar sesión y elegir el idioma de la app.
 
 **1.1.0**
 - Lumika ahora habla inglés, francés y español además de italiano, y sigue el idioma de tu Mac.
