@@ -33,6 +33,7 @@ Premi **Opzione Spazio** da qualsiasi app e cerca. Tutto resta sul tuo Mac.
 - **Subito pronta**: appena scegli le cartelle, i file si trovano già dal nome; il contenuto arriva in pochi minuti, mentre lavori.
 - **Sempre al passo**: i file che aggiungi, modifichi o sposti si trovano da soli, senza fare nulla.
 - **Anche su iCloud**: i file che stanno solo nel cloud si trovano senza scaricarli.
+- **Decidi tu cosa leggere**: salta le cartelle che non ti interessano con un clic. E le raccolte di dati, come centinaia di immagini dai nomi generati da un programma, Lumika le salta da sola.
 
 <table>
   <tr>
@@ -69,6 +70,11 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 | 1.0.0 e successive | 27 o successivo | Apple silicon |
 
 ## Novità
+
+**1.0.2**
+- Salta le cartelle che non ti interessano, dal tasto destro o da Cartelle e indice.
+- Le raccolte di dati vengono saltate da sole: l'indice resta pulito e veloce.
+- Percorsi delle cartelle più corti e leggibili.
 
 **1.0.1**
 - Al primo avvio Lumika parte vuota: non legge nessuna cartella finché non sei tu a sceglierla.
