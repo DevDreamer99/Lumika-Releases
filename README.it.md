@@ -42,6 +42,7 @@ Premi **Opzione Spazio** da qualsiasi app e cerca. Tutto resta sul tuo Mac.
 - **Impostazioni vere**: apri Lumika all'accesso, scegli la lingua e gestisci cartelle e indice in una finestra Impostazioni.
 - **In quattro lingue**: italiano, inglese, francese e spagnolo, secondo la lingua del tuo Mac.
 - **Decidi tu cosa leggere**: salta le cartelle che non ti interessano con un clic. E le raccolte di dati, come centinaia di immagini dai nomi generati da un programma, Lumika le salta da sola.
+- **Attenta alla batteria**: sul portatile legge i file nuovi quando colleghi l'alimentatore, e intanto cerchi come sempre.
 
 <table>
   <tr>
@@ -79,6 +80,9 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 | 1.0.0 e successive | 27 o successivo | Apple silicon |
 
 ## Novità
+
+**1.3.2**
+- Più attenta alla batteria: sul portatile legge file e mail nuovi solo con l'alimentatore, e cerca come sempre. Con *Leggi lo stesso* legge anche a batteria.
 
 **1.3.1**
 - Ogni mail trovata mostra account e casella, nei risultati e nell'anteprima.

@@ -42,6 +42,7 @@ Pulsa **Opción Espacio** desde cualquier app y busca. Todo se queda en tu Mac.
 - **Ajustes de verdad**: abre Lumika al iniciar sesión, elige el idioma y gestiona carpetas e índice en una ventana de Ajustes.
 - **En cuatro idiomas**: español, inglés, italiano y francés, según el idioma de tu Mac.
 - **Tú decides qué lee**: omite con un clic las carpetas que no te interesan. Las colecciones de datos, como cientos de imágenes con nombres generados por un programa, se omiten solas.
+- **Cuida la batería**: en un portátil lee los archivos nuevos cuando conectas el cargador, y mientras tanto buscas como siempre.
 
 <table>
   <tr>
@@ -79,6 +80,9 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 | 1.0.0 y posteriores | 27 o posterior | Apple silicon |
 
 ## Novedades
+
+**1.3.2**
+- Más cuidadosa con la batería: en un portátil lee archivos y correos nuevos solo con el cargador, y busca como siempre. Con *Leer de todos modos* lee también con batería.
 
 **1.3.1**
 - Cada mensaje encontrado muestra su cuenta y su buzón, en los resultados y en la vista previa.

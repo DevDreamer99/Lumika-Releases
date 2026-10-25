@@ -42,6 +42,7 @@ Appuyez sur **Option Espace** depuis n'importe quelle app et cherchez. Tout rest
 - **De vrais réglages** : ouvrez Lumika à l'ouverture de session, choisissez la langue et gérez dossiers et index dans une fenêtre Réglages.
 - **En quatre langues** : français, anglais, italien et espagnol, selon la langue de votre Mac.
 - **Vous décidez de ce qu'elle lit** : ignorez d'un clic les dossiers qui ne vous intéressent pas. Les collections de données, comme des centaines d'images nommées par un programme, sont ignorées d'elles-mêmes.
+- **Douce avec la batterie** : sur un portable, elle lit les nouveaux fichiers quand vous branchez le secteur, et vous cherchez comme toujours en attendant.
 
 <table>
   <tr>
@@ -79,6 +80,9 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 | 1.0.0 et ultérieures | 27 ou ultérieur | Apple silicon |
 
 ## Nouveautés
+
+**1.3.2**
+- Plus douce avec la batterie : sur un portable, elle lit les nouveaux fichiers et e-mails seulement sur secteur, et cherche comme toujours. Avec *Lire quand même*, elle lit aussi sur batterie.
 
 **1.3.1**
 - Chaque e-mail trouvé indique son compte et sa boîte, dans les résultats et dans l'aperçu.
