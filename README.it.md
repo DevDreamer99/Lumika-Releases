@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/showcase/it/1-main.jpg" alt="Lumika: trova qualsiasi file da quello che ricordi">
+  <img src="assets/cover/it.jpg" alt="Lumika: accendi la luce sul file che cerchi">
 </p>
 
 ---
@@ -27,6 +27,10 @@
 Non serve ricordare come si chiama un file o dove l'hai salvato. Scrivi quello che ti viene in mente, come lo diresti a voce: *"la fattura del dentista"*, *"quanto ho speso alla trattoria"*, *"dove salvo il token di accesso"*. Lumika capisce cosa intendi e te lo mostra, che sia un documento, una foto, una nota vocale o una riga di codice.
 
 Premi **Opzione Spazio** da qualsiasi app e cerca. Tutto resta sul tuo Mac.
+
+<p align="center">
+  <img src="assets/showcase/it/1-main.jpg" alt="Lumika: trova qualsiasi file da quello che ricordi">
+</p>
 
 ## Cosa fa
 

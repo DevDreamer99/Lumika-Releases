@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/showcase/fr/1-main.jpg" alt="Lumika : retrouvez n'importe quel fichier à partir de vos souvenirs">
+  <img src="assets/cover/fr.jpg" alt="Lumika : faites la lumière sur le bon fichier">
 </p>
 
 ---
@@ -27,6 +27,10 @@
 Inutile de vous souvenir du nom d'un fichier ou de l'endroit où vous l'avez rangé. Écrivez ce qui vous vient à l'esprit, comme vous le diriez à voix haute : *« facture du dentiste »*, *« combien j'ai dépensé au bistrot »*, *« où je sauvegarde le token d'accès »*. Lumika comprend ce que vous voulez dire et vous le montre, qu'il s'agisse d'un document, d'une photo, d'un mémo vocal ou d'une ligne de code.
 
 Appuyez sur **Option Espace** depuis n'importe quelle app et cherchez. Tout reste sur votre Mac.
+
+<p align="center">
+  <img src="assets/showcase/fr/1-main.jpg" alt="Lumika : retrouvez n'importe quel fichier à partir de vos souvenirs">
+</p>
 
 ## Ce qu'elle fait
 

@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/showcase/en/1-main.jpg" alt="Lumika: find any file from what you remember">
+  <img src="assets/cover/en.jpg" alt="Lumika: shine a light on the file you need">
 </p>
 
 ---
@@ -27,6 +27,10 @@
 You don't need to remember what a file is called or where you saved it. Type whatever comes to mind, the way you'd say it out loud: *"dentist bill"*, *"how much I spent at the pub"*, *"where do I store the access token"*. Lumika understands what you mean and shows it to you, whether it's a document, a photo, a voice memo or a line of code.
 
 Press **Option Space** from any app and search. Everything stays on your Mac.
+
+<p align="center">
+  <img src="assets/showcase/en/1-main.jpg" alt="Lumika: find any file from what you remember">
+</p>
 
 ## What it does
 
