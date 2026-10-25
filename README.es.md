@@ -34,6 +34,7 @@ Pulsa **Opción Espacio** desde cualquier app y busca. Todo se queda en tu Mac.
 - **También encuentra fotos**: tiques, escaneos y capturas de pantalla se encuentran por lo que pone en ellos, aunque se llamen IMG_2041.
 - **Recuerda lo que dijiste**: notas de voz, reuniones y vídeos se buscan por las palabras dichas, y Lumika te lleva al momento justo.
 - **Pensada para quien programa**: describe qué hace el código y llega a la línea justa, abierta en tu editor favorito (Xcode, VS Code, Cursor, Zed).
+- **También en el correo**: los mensajes de Mail de Apple y sus adjuntos se encuentran por lo que dicen, y se abren en Mail con un clic. Tú eliges cuentas y buzones.
 - **Lista enseguida**: en cuanto eliges las carpetas, los archivos ya se encuentran por su nombre; el contenido llega en pocos minutos, mientras trabajas.
 - **Siempre al día**: los archivos que añades, cambias o mueves se encuentran solos, sin hacer nada.
 - **También en iCloud**: los archivos que solo están en la nube se encuentran sin descargarlos.
@@ -68,6 +69,7 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 - **Todo en tu Mac**: sin cuenta, sin nube, sin datos recogidos. Las únicas conexiones son la descarga del modelo y la comprobación de actualizaciones.
 - **Tus archivos se quedan donde están**: Lumika solo los lee. Nunca los cambia, los mueve ni los envía.
 - **Las contraseñas siguen siendo privadas**: las claves y los archivos de contraseñas nunca se leen.
+- **Tu correo sigue siendo tuyo**: Lumika solo lee el correo que Mail ya ha descargado, y solo después de que lo elijas. No se conecta a los servidores y no conoce tus contraseñas.
 - **Firmada y notarizada por Apple**: macOS comprueba cada descarga.
 
 ## Requisitos
@@ -77,6 +79,13 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 | 1.0.0 y posteriores | 27 o posterior | Apple silicon |
 
 ## Novedades
+
+**1.3.0**
+- Busca también en el correo: los mensajes de Mail de Apple y sus adjuntos, con un clic para abrirlos en Mail.
+- Elige cuentas y buzones; un buzón desactivado se queda en el índice, oculto, y no se pierde nada.
+- Una página Mail en los Ajustes con el avance de la lectura, para cada buzón y también para las carpetas.
+- Nuevo icono en la barra de menús: clic para buscar, clic derecho para el menú.
+- Corregido: la app podía tener ocupado un núcleo del procesador incluso en reposo.
 
 **1.2.1**
 - Más privacidad dentro de la app: el motor de búsqueda ya no contiene los nombres de las carpetas del Mac en el que se compiló.

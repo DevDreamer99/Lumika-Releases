@@ -34,6 +34,7 @@ Press **Option Space** from any app and search. Everything stays on your Mac.
 - **Finds your photos too**: receipts, scans and screenshots are found by what's written on them, even when they're called IMG_2041.
 - **Remembers what you said**: voice memos, meetings and videos are searched by the words spoken, and Lumika takes you to the right moment.
 - **Made for developers**: describe what the code does and land on the right line, opened in your favorite editor (Xcode, VS Code, Cursor, Zed).
+- **Your mail too**: messages in Apple's Mail and their attachments are found by what they say, and open in Mail with one click. You choose the accounts and mailboxes.
 - **Ready right away**: as soon as you choose your folders, files can be found by name; their content follows within minutes, while you work.
 - **Always up to date**: files you add, change or move are found on their own, with nothing to do.
 - **iCloud too**: files that live only in iCloud are found without downloading them.
@@ -68,6 +69,7 @@ Lumika checks this page once a day and installs new versions in one click, after
 - **Everything on your Mac**: no account, no cloud, no data collected. The only network requests are the model download and the update check.
 - **Your files stay where they are**: Lumika only reads them. It never changes, moves or sends them.
 - **Passwords stay private**: keys and password files are never read.
+- **Your mail stays yours**: Lumika reads only the mail Mail has already downloaded, and only once you've chosen it. It doesn't connect to the servers and doesn't know your passwords.
 - **Signed and notarized by Apple**: macOS checks every download.
 
 ## Requirements
@@ -77,6 +79,13 @@ Lumika checks this page once a day and installs new versions in one click, after
 | 1.0.0 and later | 27 or later | Apple silicon |
 
 ## What's new
+
+**1.3.0**
+- Search your mail too: messages in Apple's Mail and their attachments, with one click to open them in Mail.
+- Choose accounts and mailboxes; a mailbox turned off stays in the index, hidden, and nothing is lost.
+- A Mail page in Settings showing how far reading is, for each mailbox and for folders too.
+- New menu bar icon: click to search, right-click for the menu.
+- Fixed: the app could keep a processor core busy even when idle.
 
 **1.2.1**
 - More privacy inside the app: the search engine no longer carries the folder names of the Mac it was built on.

@@ -34,6 +34,7 @@ Appuyez sur **Option Espace** depuis n'importe quelle app et cherchez. Tout rest
 - **Retrouve aussi vos photos** : tickets, scans et captures d'écran se retrouvent par ce qui y est écrit, même quand ils s'appellent IMG_2041.
 - **Se souvient de ce que vous dites** : mémos vocaux, réunions et vidéos se cherchent par les mots prononcés, et Lumika vous mène au bon moment.
 - **Pensée pour les développeurs** : décrivez ce que fait le code et arrivez à la bonne ligne, ouverte dans votre éditeur préféré (Xcode, VS Code, Cursor, Zed).
+- **Vos e-mails aussi** : les messages de Mail d'Apple et leurs pièces jointes se retrouvent par ce qu'ils disent, et s'ouvrent dans Mail en un clic. Vous choisissez les comptes et les boîtes.
 - **Prête tout de suite** : dès que vous choisissez vos dossiers, les fichiers se retrouvent déjà par leur nom ; le contenu suit en quelques minutes, pendant que vous travaillez.
 - **Toujours à jour** : les fichiers que vous ajoutez, modifiez ou déplacez se retrouvent tout seuls.
 - **iCloud aussi** : les fichiers qui ne sont que dans le cloud se retrouvent sans les télécharger.
@@ -68,6 +69,7 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 - **Tout sur votre Mac** : pas de compte, pas de cloud, aucune donnée collectée. Les seules requêtes réseau sont le téléchargement du modèle et la vérification des mises à jour.
 - **Vos fichiers restent où ils sont** : Lumika se contente de les lire. Elle ne les modifie, ne les déplace et ne les envoie jamais.
 - **Les mots de passe restent privés** : les clés et les fichiers de mots de passe ne sont jamais lus.
+- **Vos e-mails restent à vous** : Lumika ne lit que les e-mails que Mail a déjà téléchargés, et seulement après que vous les avez choisis. Elle ne se connecte pas aux serveurs et ne connaît pas vos mots de passe.
 - **Signée et notarisée par Apple** : macOS vérifie chaque téléchargement.
 
 ## Configuration requise
@@ -77,6 +79,13 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 | 1.0.0 et ultérieures | 27 ou ultérieur | Apple silicon |
 
 ## Nouveautés
+
+**1.3.0**
+- Cherchez aussi dans vos e-mails : les messages de Mail d'Apple et leurs pièces jointes, à ouvrir dans Mail en un clic.
+- Choisissez comptes et boîtes ; une boîte désactivée reste dans l'index, masquée, et rien n'est perdu.
+- Une page Mail dans les Réglages avec l'avancement de la lecture, pour chaque boîte et aussi pour les dossiers.
+- Nouvelle icône dans la barre des menus : un clic pour chercher, un clic droit pour le menu.
+- Corrigé : l'app pouvait occuper un cœur du processeur même au repos.
 
 **1.2.1**
 - Plus de confidentialité dans l'app : le moteur de recherche ne contient plus les noms des dossiers du Mac sur lequel il a été compilé.

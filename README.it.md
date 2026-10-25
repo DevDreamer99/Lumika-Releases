@@ -34,6 +34,7 @@ Premi **Opzione Spazio** da qualsiasi app e cerca. Tutto resta sul tuo Mac.
 - **Ritrova anche le foto**: scontrini, scansioni e screenshot si trovano da quello che c'è scritto sopra, anche se si chiamano IMG_2041.
 - **Ricorda quello che hai detto**: note vocali, riunioni e video si cercano per le parole pronunciate, e Lumika ti porta al momento giusto.
 - **Pensata per chi programma**: descrivi cosa fa il codice e arrivi alla riga giusta, aperta nel tuo editor preferito (Xcode, VS Code, Cursor, Zed).
+- **Anche nella posta**: i messaggi di Mail di Apple e i loro allegati si trovano da quello che dicono, e si aprono in Mail con un clic. Scegli tu account e caselle.
 - **Subito pronta**: appena scegli le cartelle, i file si trovano già dal nome; il contenuto arriva in pochi minuti, mentre lavori.
 - **Sempre al passo**: i file che aggiungi, modifichi o sposti si trovano da soli, senza fare nulla.
 - **Anche su iCloud**: i file che stanno solo nel cloud si trovano senza scaricarli.
@@ -68,6 +69,7 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 - **Tutto sul tuo Mac**: nessun account, nessun cloud, nessun dato raccolto. Le uniche richieste in rete sono il download del modello e il controllo degli aggiornamenti.
 - **I tuoi file restano dove sono**: Lumika li legge e basta. Non li modifica, non li sposta e non li invia.
 - **Le password restano private**: chiavi e file di password non vengono mai letti.
+- **La posta resta tua**: Lumika legge solo le mail che Mail ha già scaricato, e solo dopo che le hai scelte. Non si collega ai server e non conosce le tue password.
 - **Firmata e autenticata da Apple**: macOS controlla ogni download.
 
 ## Requisiti
@@ -77,6 +79,13 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 | 1.0.0 e successive | 27 o successivo | Apple silicon |
 
 ## Novità
+
+**1.3.0**
+- Cerca anche nella posta: i messaggi di Mail di Apple e i loro allegati, con un clic per aprirli in Mail.
+- Scegli account e caselle; una casella spenta resta nell'indice, nascosta, e non perdi nulla.
+- Una pagina Mail nelle Impostazioni con l'avanzamento della lettura, per ogni casella e anche per le cartelle.
+- Nuova icona nella barra dei menu: clic per cercare, clic destro per il menu.
+- Corretto: l'app poteva tenere occupato un core del processore anche a riposo.
 
 **1.2.1**
 - Più riservatezza dentro l'app: il motore di ricerca non contiene più i nomi delle cartelle del Mac su cui è stato compilato.
