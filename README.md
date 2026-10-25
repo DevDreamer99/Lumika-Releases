@@ -80,6 +80,10 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
+**1.3.1**
+- Every message found shows its account and mailbox, in the results and in the preview.
+- Once everything is read, the Mail page says your mail is up to date, without a full bar.
+
 **1.3.0**
 - Search your mail too: messages in Apple's Mail and their attachments, with one click to open them in Mail.
 - Choose accounts and mailboxes; a mailbox turned off stays in the index, hidden, and nothing is lost.

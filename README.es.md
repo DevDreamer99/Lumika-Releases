@@ -80,6 +80,10 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 
 ## Novedades
 
+**1.3.1**
+- Cada mensaje encontrado muestra su cuenta y su buzón, en los resultados y en la vista previa.
+- Cuando todo está leído, la página Mail indica que el correo está al día, sin barra llena.
+
 **1.3.0**
 - Busca también en el correo: los mensajes de Mail de Apple y sus adjuntos, con un clic para abrirlos en Mail.
 - Elige cuentas y buzones; un buzón desactivado se queda en el índice, oculto, y no se pierde nada.

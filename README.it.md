@@ -80,6 +80,10 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Novità
 
+**1.3.1**
+- Ogni mail trovata mostra account e casella, nei risultati e nell'anteprima.
+- A lettura finita la pagina Mail dice che la posta è aggiornata, senza barra piena.
+
 **1.3.0**
 - Cerca anche nella posta: i messaggi di Mail di Apple e i loro allegati, con un clic per aprirli in Mail.
 - Scegli account e caselle; una casella spenta resta nell'indice, nascosta, e non perdi nulla.

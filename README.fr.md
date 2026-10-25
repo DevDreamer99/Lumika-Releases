@@ -80,6 +80,10 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 
 ## Nouveautés
 
+**1.3.1**
+- Chaque e-mail trouvé indique son compte et sa boîte, dans les résultats et dans l'aperçu.
+- Une fois tout lu, la page Mail indique que le courrier est à jour, sans barre pleine.
+
 **1.3.0**
 - Cherchez aussi dans vos e-mails : les messages de Mail d'Apple et leurs pièces jointes, à ouvrir dans Mail en un clic.
 - Choisissez comptes et boîtes ; une boîte désactivée reste dans l'index, masquée, et rien n'est perdu.
