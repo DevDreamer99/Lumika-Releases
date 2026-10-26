@@ -85,6 +85,9 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 
 ## Nouveautés
 
+**1.3.3**
+- Au démarrage du Mac, Lumika reste dans la barre des menus sans ouvrir les Réglages, même si vous cherchez seulement dans vos e-mails.
+
 **1.3.2**
 - Plus douce avec la batterie : sur un portable, elle lit les nouveaux fichiers et e-mails seulement sur secteur, et cherche comme toujours. Avec *Lire quand même*, elle lit aussi sur batterie.
 

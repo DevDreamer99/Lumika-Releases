@@ -85,6 +85,9 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Novità
 
+**1.3.3**
+- All'avvio del Mac Lumika resta nella barra dei menu senza aprire le Impostazioni, anche se cerchi solo nella posta.
+
 **1.3.2**
 - Più attenta alla batteria: sul portatile legge file e mail nuovi solo con l'alimentatore, e cerca come sempre. Con *Leggi lo stesso* legge anche a batteria.
 

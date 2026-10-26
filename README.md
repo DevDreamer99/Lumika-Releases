@@ -85,6 +85,9 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
+**1.3.3**
+- When your Mac starts, Lumika stays in the menu bar without opening Settings, even if you search only your mail.
+
 **1.3.2**
 - Kinder to your battery: on a laptop it reads new files and mail only on the charger, and searches as always. With *Read anyway* it reads on battery too.
 
