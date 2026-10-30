@@ -43,6 +43,7 @@ Premi **Opzione Spazio** da qualsiasi app e cerca. Tutto resta sul tuo Mac.
 - **Sempre al passo**: i file che aggiungi, modifichi o sposti si trovano da soli, senza fare nulla.
 - **Anche su iCloud**: i file che stanno solo nel cloud si trovano senza scaricarli.
 - **Anche sui dischi esterni**: scollegati, i loro file restano cercabili; ricollegati, Lumika riprende da sola.
+- **Cerca dove vuoi tu**: tutto insieme, oppure solo in una cartella, un disco o la posta, con un clic.
 - **Impostazioni vere**: apri Lumika all'accesso, scegli la lingua e gestisci cartelle e indice in una finestra Impostazioni.
 - **In quattro lingue**: italiano, inglese, francese e spagnolo, secondo la lingua del tuo Mac.
 - **Decidi tu cosa leggere**: salta le cartelle che non ti interessano con un clic. E le raccolte di dati, come centinaia di immagini dai nomi generati da un programma, Lumika le salta da sola.
@@ -84,6 +85,9 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 | 1.0.0 e successive | 27 o successivo | Apple silicon |
 
 ## Novità
+
+**1.3.4**
+- Cerca in un posto solo: con il menu Dove scegli una cartella, un disco esterno o la posta, e i risultati arrivano solo da lì.
 
 **1.3.3**
 - All'avvio del Mac Lumika resta nella barra dei menu senza aprire le Impostazioni, anche se cerchi solo nella posta.
