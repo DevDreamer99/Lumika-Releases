@@ -86,12 +86,15 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 
 ## Novedades
 
-**1.3.7**
-- Busca en una sola cuenta de correo o en un solo buzón, desde el menú Dónde.
+**1.3.8**
+- Preparación para la próxima actualización: para ti no cambia nada.
 
 ### Versiones anteriores (ya no disponibles)
 
 Se quedan aquí para saber qué cambió. Solo se descarga la última versión.
+
+**1.3.7**
+- Busca en una sola cuenta de correo o en un solo buzón, desde el menú Dónde.
 
 **1.3.6**
 - Búsqueda en el correo más precisa: tu nombre y las palabras que están en todas partes ya no deciden los resultados.

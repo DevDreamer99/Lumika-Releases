@@ -86,12 +86,15 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
-**1.3.7**
-- Search one mail account or one mailbox, from the Where menu.
+**1.3.8**
+- Getting ready for the next update: nothing changes for you.
 
 ### Earlier versions (no longer available)
 
 Kept here to show what changed. Only the latest version can be downloaded.
+
+**1.3.7**
+- Search one mail account or one mailbox, from the Where menu.
 
 **1.3.6**
 - Sharper mail search: your own name and words found everywhere no longer decide the results.
