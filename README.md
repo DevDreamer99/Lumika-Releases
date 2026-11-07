@@ -86,6 +86,11 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
+**1.3.5**
+- Mail by conversation, with the message closest to your search highlighted.
+- Each message read without the messages it quotes and the legal notices: the right one is easier to find.
+- Questions about dates ("when", "date"): messages with a day or a time come first.
+
 **1.3.4**
 - Search in one place only: with the Where menu pick a folder, an external disk or your mail, and the results come only from there.
 

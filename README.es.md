@@ -86,6 +86,11 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 
 ## Novedades
 
+**1.3.5**
+- El correo por conversaciones, con el mensaje más cercano a la búsqueda destacado.
+- Cada mensaje leído sin los mensajes citados ni los avisos legales: el mensaje justo se encuentra mejor.
+- Preguntas sobre fechas ("cuándo", "fecha"): primero los mensajes con un día o una hora.
+
 **1.3.4**
 - Busca en un solo sitio: con el menú Dónde elige una carpeta, un disco externo o el correo, y los resultados llegan solo de ahí.
 

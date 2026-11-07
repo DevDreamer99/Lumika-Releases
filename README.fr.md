@@ -86,6 +86,11 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 
 ## Nouveautés
 
+**1.3.5**
+- Le courrier par conversations, avec en évidence le message le plus proche de la recherche.
+- Chaque e-mail lu sans les messages cités ni les mentions légales : le bon message se trouve mieux.
+- Questions de dates (« quand », « date ») : d'abord les messages avec un jour ou une heure.
+
 **1.3.4**
 - Cherchez à un seul endroit : avec le menu Où, choisissez un dossier, un disque externe ou vos e-mails, et les résultats ne viennent que de là.
 

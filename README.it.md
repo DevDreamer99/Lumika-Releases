@@ -86,6 +86,11 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Novità
 
+**1.3.5**
+- La posta per conversazioni, con in evidenza il messaggio più vicino alla ricerca.
+- Ogni mail letta senza i messaggi citati e le avvertenze legali: il messaggio giusto si trova meglio.
+- Domande sulle date ("quando", "data"): prima i messaggi con un giorno o un orario.
+
 **1.3.4**
 - Cerca in un posto solo: con il menu Dove scegli una cartella, un disco esterno o la posta, e i risultati arrivano solo da lì.
 
