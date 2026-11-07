@@ -86,6 +86,10 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Novità
 
+**1.3.6**
+- Ricerca nella posta più precisa: il tuo nome e le parole presenti ovunque non decidono più i risultati.
+- Gli allegati identici compaiono una volta sola.
+
 **1.3.5**
 - La posta per conversazioni, con in evidenza il messaggio più vicino alla ricerca.
 - Ogni mail letta senza i messaggi citati e le avvertenze legali: il messaggio giusto si trova meglio.

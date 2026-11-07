@@ -86,6 +86,10 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
+**1.3.6**
+- Sharper mail search: your own name and words found everywhere no longer decide the results.
+- Identical attachments show once.
+
 **1.3.5**
 - Mail by conversation, with the message closest to your search highlighted.
 - Each message read without the messages it quotes and the legal notices: the right one is easier to find.

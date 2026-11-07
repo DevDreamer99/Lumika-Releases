@@ -86,6 +86,10 @@ Lumika consulte cette page une fois par jour et installe les nouvelles versions 
 
 ## Nouveautés
 
+**1.3.6**
+- Recherche dans le courrier plus précise : votre nom et les mots présents partout ne décident plus des résultats.
+- Les pièces jointes identiques n'apparaissent qu'une fois.
+
 **1.3.5**
 - Le courrier par conversations, avec en évidence le message le plus proche de la recherche.
 - Chaque e-mail lu sans les messages cités ni les mentions légales : le bon message se trouve mieux.

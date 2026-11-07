@@ -86,6 +86,10 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 
 ## Novedades
 
+**1.3.6**
+- Búsqueda en el correo más precisa: tu nombre y las palabras que están en todas partes ya no deciden los resultados.
+- Los adjuntos idénticos aparecen una sola vez.
+
 **1.3.5**
 - El correo por conversaciones, con el mensaje más cercano a la búsqueda destacado.
 - Cada mensaje leído sin los mensajes citados ni los avisos legales: el mensaje justo se encuentra mejor.
