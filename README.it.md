@@ -86,12 +86,16 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Novità
 
-**1.3.8**
-- Preparazione per il prossimo aggiornamento: per te non cambia nulla.
+**1.4.0**
+- Lumika ha una nuova identità sul Mac: impostazioni, caselle e indice vengono con lei da soli.
+- Una volta sola: per cercare di nuovo nella posta, ridai a Lumika l'Accesso completo al disco.
 
 ### Versioni precedenti (non più disponibili)
 
 Restano qui per sapere cosa è cambiato. Si scarica solo l'ultima versione.
+
+**1.3.8**
+- Preparazione per il prossimo aggiornamento: per te non cambia nulla.
 
 **1.3.7**
 - Cerca in un solo account di posta o in una sola casella, dal menu Dove.
