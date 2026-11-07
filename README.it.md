@@ -86,6 +86,9 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Novità
 
+**1.3.7**
+- Cerca in un solo account di posta o in una sola casella, dal menu Dove.
+
 **1.3.6**
 - Ricerca nella posta più precisa: il tuo nome e le parole presenti ovunque non decidono più i risultati.
 - Gli allegati identici compaiono una volta sola.
