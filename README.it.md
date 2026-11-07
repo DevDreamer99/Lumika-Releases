@@ -89,6 +89,10 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 **1.3.7**
 - Cerca in un solo account di posta o in una sola casella, dal menu Dove.
 
+### Versioni precedenti (non più disponibili)
+
+Restano qui per sapere cosa è cambiato. Si scarica solo l'ultima versione.
+
 **1.3.6**
 - Ricerca nella posta più precisa: il tuo nome e le parole presenti ovunque non decidono più i risultati.
 - Gli allegati identici compaiono una volta sola.
