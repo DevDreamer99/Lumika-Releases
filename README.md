@@ -86,13 +86,16 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## What's new
 
-**1.4.0**
-- Lumika has a new identity on your Mac: settings, mailboxes and index come along on their own.
-- Once only: to search your mail again, give Lumika Full Disk Access again.
+**1.4.1**
+- The About page now shows the app's name in the copyright.
 
 ### Earlier versions (no longer available)
 
 Kept here to show what changed. Only the latest version can be downloaded.
+
+**1.4.0**
+- Lumika has a new identity on your Mac: settings, mailboxes and index come along on their own.
+- Once only: to search your mail again, give Lumika Full Disk Access again.
 
 **1.3.8**
 - Getting ready for the next update: nothing changes for you.

@@ -86,13 +86,16 @@ Lumika consulta esta página una vez al día e instala las nuevas versiones con 
 
 ## Novedades
 
-**1.4.0**
-- Lumika tiene una nueva identidad en el Mac: ajustes, buzones e índice la acompañan solos.
-- Una sola vez: para volver a buscar en el correo, vuelve a darle a Lumika acceso total al disco.
+**1.4.1**
+- La página Acerca de ahora muestra el nombre de la app en el copyright.
 
 ### Versiones anteriores (ya no disponibles)
 
 Se quedan aquí para saber qué cambió. Solo se descarga la última versión.
+
+**1.4.0**
+- Lumika tiene una nueva identidad en el Mac: ajustes, buzones e índice la acompañan solos.
+- Una sola vez: para volver a buscar en el correo, vuelve a darle a Lumika acceso total al disco.
 
 **1.3.8**
 - Preparación para la próxima actualización: para ti no cambia nada.
