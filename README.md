@@ -157,4 +157,4 @@ Kept here to show what changed. Only the latest version can be downloaded.
 
 ---
 
-<p align="center"><sub>© 2026 Mattia Fossati</sub></p>
+<p align="center"><sub>© 2026 Lumika</sub></p>
