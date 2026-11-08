@@ -80,83 +80,9 @@ Lumika controlla questa pagina una volta al giorno e installa le nuove versioni 
 
 ## Requisiti
 
-| Versione | macOS | Mac |
-|---|---|---|
-| 1.0.0 e successive | 27 o successivo | Apple silicon |
-
-## Novità
-
-**1.4.1**
-- La pagina Informazioni ora mostra il nome dell'app nel copyright.
-
-### Versioni precedenti (non più disponibili)
-
-Restano qui per sapere cosa è cambiato. Si scarica solo l'ultima versione.
-
-**1.4.0**
-- Lumika ha una nuova identità sul Mac: impostazioni, caselle e indice vengono con lei da soli.
-- Una volta sola: per cercare di nuovo nella posta, ridai a Lumika l'Accesso completo al disco.
-
-**1.3.8**
-- Preparazione per il prossimo aggiornamento: per te non cambia nulla.
-
-**1.3.7**
-- Cerca in un solo account di posta o in una sola casella, dal menu Dove.
-
-**1.3.6**
-- Ricerca nella posta più precisa: il tuo nome e le parole presenti ovunque non decidono più i risultati.
-- Gli allegati identici compaiono una volta sola.
-
-**1.3.5**
-- La posta per conversazioni, con in evidenza il messaggio più vicino alla ricerca.
-- Ogni mail letta senza i messaggi citati e le avvertenze legali: il messaggio giusto si trova meglio.
-- Domande sulle date ("quando", "data"): prima i messaggi con un giorno o un orario.
-
-**1.3.4**
-- Cerca in un posto solo: con il menu Dove scegli una cartella, un disco esterno o la posta, e i risultati arrivano solo da lì.
-
-**1.3.3**
-- All'avvio del Mac Lumika resta nella barra dei menu senza aprire le Impostazioni, anche se cerchi solo nella posta.
-
-**1.3.2**
-- Più attenta alla batteria: sul portatile legge file e mail nuovi solo con l'alimentatore, e cerca come sempre. Con *Leggi lo stesso* legge anche a batteria.
-
-**1.3.1**
-- Ogni mail trovata mostra account e casella, nei risultati e nell'anteprima.
-- A lettura finita la pagina Mail dice che la posta è aggiornata, senza barra piena.
-
-**1.3.0**
-- Cerca anche nella posta: i messaggi di Mail di Apple e i loro allegati, con un clic per aprirli in Mail.
-- Scegli account e caselle; una casella spenta resta nell'indice, nascosta, e non perdi nulla.
-- Una pagina Mail nelle Impostazioni con l'avanzamento della lettura, per ogni casella e anche per le cartelle.
-- Nuova icona nella barra dei menu: clic per cercare, clic destro per il menu.
-- Corretto: l'app poteva tenere occupato un core del processore anche a riposo.
-
-**1.2.1**
-- Più riservatezza dentro l'app: il motore di ricerca non contiene più i nomi delle cartelle del Mac su cui è stato compilato.
-
-**1.2.0**
-- Una vera finestra Impostazioni, dal menu con ⌘, o dal pannello di ricerca.
-- Apri Lumika all'accesso e scegli la lingua dell'app.
-
-**1.1.0**
-- Lumika ora parla inglese, francese e spagnolo oltre all'italiano, e segue la lingua del tuo Mac.
-- Anche le note degli aggiornamenti arrivano nella tua lingua.
-
-**1.0.3**
-- Dischi esterni e chiavette: scollegati restano cercabili, ricollegati Lumika riprende da sola.
-- Correzione importante: con il modello appena scaricato la ricerca per significato poteva non partire.
-
-**1.0.2**
-- Salta le cartelle che non ti interessano, dal tasto destro o da Cartelle e indice.
-- Le raccolte di dati vengono saltate da sole: l'indice resta pulito e veloce.
-- Percorsi delle cartelle più corti e leggibili.
-
-**1.0.1**
-- Al primo avvio Lumika parte vuota: non legge nessuna cartella finché non sei tu a sceglierla.
-
-**1.0.0**
-- Prima versione.
+| macOS | Mac |
+|---|---|
+| 27 o successivo | Apple silicon |
 
 ---
 

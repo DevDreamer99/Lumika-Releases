@@ -80,83 +80,9 @@ Lumika checks this page once a day and installs new versions in one click, after
 
 ## Requirements
 
-| Version | macOS | Mac |
-|---|---|---|
-| 1.0.0 and later | 27 or later | Apple silicon |
-
-## What's new
-
-**1.4.1**
-- The About page now shows the app's name in the copyright.
-
-### Earlier versions (no longer available)
-
-Kept here to show what changed. Only the latest version can be downloaded.
-
-**1.4.0**
-- Lumika has a new identity on your Mac: settings, mailboxes and index come along on their own.
-- Once only: to search your mail again, give Lumika Full Disk Access again.
-
-**1.3.8**
-- Getting ready for the next update: nothing changes for you.
-
-**1.3.7**
-- Search one mail account or one mailbox, from the Where menu.
-
-**1.3.6**
-- Sharper mail search: your own name and words found everywhere no longer decide the results.
-- Identical attachments show once.
-
-**1.3.5**
-- Mail by conversation, with the message closest to your search highlighted.
-- Each message read without the messages it quotes and the legal notices: the right one is easier to find.
-- Questions about dates ("when", "date"): messages with a day or a time come first.
-
-**1.3.4**
-- Search in one place only: with the Where menu pick a folder, an external disk or your mail, and the results come only from there.
-
-**1.3.3**
-- When your Mac starts, Lumika stays in the menu bar without opening Settings, even if you search only your mail.
-
-**1.3.2**
-- Kinder to your battery: on a laptop it reads new files and mail only on the charger, and searches as always. With *Read anyway* it reads on battery too.
-
-**1.3.1**
-- Every message found shows its account and mailbox, in the results and in the preview.
-- Once everything is read, the Mail page says your mail is up to date, without a full bar.
-
-**1.3.0**
-- Search your mail too: messages in Apple's Mail and their attachments, with one click to open them in Mail.
-- Choose accounts and mailboxes; a mailbox turned off stays in the index, hidden, and nothing is lost.
-- A Mail page in Settings showing how far reading is, for each mailbox and for folders too.
-- New menu bar icon: click to search, right-click for the menu.
-- Fixed: the app could keep a processor core busy even when idle.
-
-**1.2.1**
-- More privacy inside the app: the search engine no longer carries the folder names of the Mac it was built on.
-
-**1.2.0**
-- A real Settings window, from the menu bar with ⌘, or from the search panel.
-- Open Lumika at login, and choose the app's language.
-
-**1.1.0**
-- Lumika now speaks English, French and Spanish as well as Italian, and follows your Mac's language.
-- Update notes come in your language too.
-
-**1.0.3**
-- External disks and USB sticks: unplugged they stay searchable, plugged back in Lumika picks up on its own.
-- Important fix: with a freshly downloaded model, search by meaning could fail to start.
-
-**1.0.2**
-- Skip the folders you don't care about, from the right-click menu or from Folders and index.
-- Data collections are skipped on their own: the index stays clean and fast.
-- Shorter, easier-to-read folder paths.
-
-**1.0.1**
-- On first launch Lumika starts empty: it reads no folder until you choose one.
-
-**1.0.0**
-- First release.
+| macOS | Mac |
+|---|---|
+| 27 or later | Apple silicon |
 
 ---
 
